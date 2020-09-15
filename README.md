@@ -39,8 +39,9 @@ Cho đoạn code sau
 ```javascript
 const object1 = {
   name: {
-    first: "Luca"
+    first: "Luca",
     last: "Die"
+  }
 }
 
 const object2 = object1
